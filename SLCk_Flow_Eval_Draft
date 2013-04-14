@@ -1,0 +1,213 @@
+Tools to Monitor and Evaluate River Basins
+Modeling San Leandro Creek – Lake Chabot Relicensing
+
+Key Issues:  Dam relicensing, modeling, biological flows, watershed planning, public involvement, recreation, wetlands impact, planning, evaluation and monitoring, EIS, BMP design
+
+I.	INTRO:  (SF Bay, population, creeks, wetland restoration, water use, dams, relicensing; Story about changing requirements for participation, watershed management, technology for modeling flows; Restoration and dilemma of how to restore and what to restore to once a river basin has been developed)  Story of San Leandro Creek Watershed and Lake Chabot Dam.
+II.	SITE LOCATION:  setting, watershed size, population, 
+a.	Flow – historic, simulated, gaging stations
+b.	Urban environment – water quality (temperature, turbidity, pollutants)
+c.	303(d) receiving water quality objectives (TMDL watershed / NPDES requirements?)
+d.	Reservoir – Lake Chabot; operations, flow release requirements
+i.	Purpose of dam
+ii.	Optimal flows for fish (which fish)
+iii.	Safety planning for public access during high flow regimes / flood events
+iv.	Stream channel design
+e.	Restoration of riparian / in-stream values and wetlands
+i.	Revegetation
+ii.	Impact on SF Bay wetlands
+iii.	Current future hydrograph (hydromodification)
+iv.	Temperature increases, changes in peak and timing of peak
+v.	Sediment
+II. Dam Relicensing
+A.	Regulatory Requirements – 
+a.	EIA
+b.	CEQA - Receiving water quality objectives
+B.	Reservoir Operations – 
+C.	Biological Flows – Fish requirements
+D.	Flow modeling – HEC GeoRAS
+E.	Public Involvement
+F.	Construction SWPPP / BioAssessment
+G.	Evaluation and Monitoring 
+III. Planning and Site Development
+A.	Stream Corridor
+a.	Shoreline to Ridgeline
+b.	Bike-Pedestrian Pathway
+c.	Education – Interpretation
+d.	Flood Zone – flood modeling
+B.	Roads and Culverts
+a.	Transportation planning
+b.	Daylighting of urban streams
+C.	Participatory Planning – methodology and tools
+a.	Connect the Dots
+b.	Safety
+c.	Emergency Planning
+d.	Community Involvement
+e.	Access-usage (increase computational / programming requirements)
+D.	FLY OVER – fish eye view / web based access
+IV. Scaling Up
+A.	Comparison to other SF Bay stream corridors
+B.	Regional – larger river basins
+C.	International River Basins
+Climate Change Impacts
+6/2/12
+1.	Restoration of Biological Flows - San Leandro Creek
+Who wants to restore it?  What do they want to restore it to?  How can it be restored?  
+
+Question:  given desired seasonal depth and flows, what technical studies (flood modeling, urban planning, channel design), public involvement and political will is required to restore biological flows in an urban creek?
+
+Outline:  
+1) Determine restoration flows needed 
+(life cycle of Chinook Salmon and Steelhead trout, seasonality, flood regime => guided by fisheries experts and past studies and models)
+2) How does this correlate to groundwater flows and dam releases? 
+(How much in stream - GW input, ppt/stormwater, needed releases, WQ implications)
+3) If Chabot Dam releases deficit, which water reservoir operation rules/spills apply? 
+A) model flow/flood depth and extent - HEC-RAS, HEC-HMS; 
+B) estimate flood/depth response in critical reaches; 
+C) identify areas/opportunities for channel modification improvements, and related costs/ studies/ processes necessary to implement; 
+D) Validate model - (how?  simulate flows?  measure depth in stream before/after test releases? compare)
+E) Safety concerns from drawdown in reservoir, or flood extent in downstream reaches
+
+II) Societal Processes for project implementation - social and political will
+
+1) Stakeholder Analysis - who wants to restore flows? What agencies, ngos, political entities can make it happen?  Whose priority? (poll?  bond effort?  budgets?)
+2) Project Planning - Who needs to be involved? - community, politicians, local cities, parks, academics...
+3) What is the target? (what should it be restored to?  how can it be restored?  what permits/studies/public involvement/funding mechanisms need to materialize?)
+
+III) Project Evaluation - Did we do a good job?
+
+1) Monitoring and Evaluation - essential elements and methodologies
+2) Pre/Post project planning and evaluation
+3) Comparison to other East Bay streams / California Rivers / World
+
+
+Thesis statement: 
+Literature review/historiographical essay: 
+Statement of primary sources:
+Methodology:
+Research plan:
+Chapter outline: 
+NOTE: You might find it helpful to sketch out your chapter outline first, before you write the rest of your prospectus, to give yourself an idea of where you hope to go with your prospectus, and then return to the chapter outline when you’ve finished the rest of the prospectus to see how it matches up. In its final form, a good chapter outline not only has tentative chapter titles that suggest what each chapter will cover, but also has a paragraph that summarizes the focus of the chapter and, perhaps, sets out the major sources of evidence for that chapter.
+
+Bibliography: This should be the very end of your prospectus, and should contain not only secondary sources but also as many primary sources as you have identified and any archives that may be relevant to your project. �Here, you want to be as inclusive as you can be.
+
+
+NOTES:
+San Leandro Creek, formerly Arroyo de San Leandro is a 21.7-mile-long (34.9 km)[3] year-round natural stream in Northern California. It flows along the east side of the range which comprises the Berkeley Hills and the San Leandro Hills, immediately east of Oakland. In the hills, it runs into Upper San Leandro Reservoir and then Lake Chabot, both man-made lakes lying north of the unincorporated town of Castro Valley, California. It then runs through the city of San Leandro and on into San Leandro Bay after crossing Hegenberger Road just north of Oakland International Airport. 
+
+Lake Chabot is a man-made lake covering 317 acres (1.3 km2) in Alameda County, California. Part of the lake lies within Oakland city limits, but most of it lies in unincorporated Castro Valley, just east of San Leandro. It was formed by the damming of San Leandro Creek.
+
+The Lake Chabot dam was built in 1874-1875 as a primary source for water in the East Bay. The lake was closed to recreation for 91 years. Legislation passed in the 1960s opened the lake for controlled recreation uses. Currently, the lake serves as a standby emergency water supply. For this reason, visitors are asked to observe certain necessary regulations to keep the waters pure.
+
+History
+San Leandro Creek was formerly named Arroyo de San Leandro, likely named by the Spanish for St. Leander, 6th century archbishop of Seville, "Apostle of the Goths".[1] It was crossed by El Camino Viejo now, State Route 185.
+The creek is remarkable for having been the site of the first rainbow trout hatchery in the world, drawing on the locally native variety of the species. The fish raised in this hatchery were sent as far away as New York. [7] Although Rainbow trout (Oncorhynchus mykiss), the landlocked form of steelhead trout, was initially identified in 1792 in Kamchatka, Siberia by Johann Julius Walbaum, William P. Gibbons, founder of the California Academy of Sciences, believed in 1855 that he had discovered a new species of trout in San Leandro Creek, which he named Salmo iridea (now the Coastal rainbow trout subspecies Oncorhynchus mykiss irideus).[8][5]
+In 1874 work began on Lake Chabot Dam and it was completed in 1875, forming a 315-acre lake. Lake Chabot serves as a standby emergency water supply but was opened to limited recreation in the 1960s.[9] Four miles upstream, a second dam built in 1926 formed San Leandro Reservoir.
+
+Ecology
+It sustains the redwood groves in the unincorporated town of Canyon, California and was formerly lined with numerous oaks and willows in its lower course.
+Historical records indicate that Chinook salmon (Oncorhynchus tshawytscha) occurred in at least two San Francisco Bay Area watersheds, San Leandro Creek in Alameda County, and San Mateo Creek in San Mateo County .[10] In the 1870s, “quinnant”, or Chinook salmon were reported from lower San Leandro Creek and persisted in Lake Chabot for several years following the completion of Lake Chabot Dam in 1875 .[11] California Department of Fish and Game Warden George Smalley reported runs of Coho salmon (Oncorhynchus kisutch) and Steelhead trout (Oncorhynchus mykiss) in San Leandro Creek “…in the early days” and “…that after the completion of the Upper San Leandro Reservoir a run still persisted to the base of the dam for many years”. Leidy considered this single historical account of Coho in the creek "reliable...since we believe that suitable habitat was present in the watershed."[12] As mentioned above, Gibbons discovered rainbow trout in San Leandro Creek in 1855. Thus, all three species of Oncorhynchus once inhabited San Leandro Creek.
+Today, Lake Chabot's rainbow trout are hatchery fish, but the rainbow trout in San Leandro Reservoir are descended from native steelhead which were trapped when San Leandro Dam was constructed on Redwood Creek in 1926. The San Leandro trout have maintained genetic integrity with native coastal California steelhead since they have not been mixed with hatchery trout, and were used in a 1983 reintroduction of steelhead to Wildcat Creek in Tilden Regional Park .[13]
+
+See list of Dams in California:
+http://en.wikipedia.org/wiki/List_of_dams_and_reservoirs_in_California
+
+East Bay Watershed Masterplan
+http://ebmud.com/sites/default/files/pdfs/EBMUD%20Watershed%20Master%20Plan_3.pdf (accessed May 6, 2012)
+
+Table 2-1
+Thirty-Year Average Contribution of Local Runoff to Total Reservoir Inflow
+Reservoir
+Watershed	Local Runoff Area
+Local Rainfall
+Mokelumne Flow
+(acres)a	Acre-feet
+Briones San Pablo Lafayette 760 440 Upper San Leandro	18,680	15,100 
+Chabot	7,720 2,960
+% Inflow
+22 44 58 59 36
+Acre-feet
+1,520 1,570 270 1,340 610
+% Inflow
+18 4 36 5 7
+Acre-feet
+4,860b 19,110c 50d 8,990b 4,550e
+% Inflow
+60 52 6 35 56
+
+http://eastbaywatersofconnection.wikia.com/wiki/San_Leandro_Creek_-_Waters_of_Connection
+
+The San Leandro Creek stretches approximately 6.25 miles from its headwaters above Lake Chabot, and drops about 230 feet in elevation from the East Bay Hills, snaking gently through the flatlands along the East Oakland/ San Leandro City borders until it meets the San Leandro Bay at Arrowhead Marsh.
+This watershed is a key conduit between two valuable natural resources in the Bay Area. Near the top of the watershed, Lake Chabot is one of the premier parks in the East Bay regional Parks District System. It also serves as the meeting point for the Bay Area Ridge Trail, which meets the San Francisco Bay Trail. The end of the creek is part of one of the newest EBRPD parks: the Martin Luther King Jr. Shoreline Park.
+
+
+Alameda Lake Chabot 303d Listed Mercury Impaired Water Body
+http://www.waterboards.ca.gov/water_issues/programs/mercury/reservoirs/
+Accessed May 8, 2012
+
+http://www.waterboards.ca.gov/sanfranciscobay/docs/finalbmirept081505.pdf
+
+Impaired data:  SWRCB  (accessed May 8, 2012)
+http://www.waterboards.ca.gov/water_issues/programs/tmdl/integrated2010.shtml?wbid=CAR2042001119990218140111
+
+
+
+
+NEARBY WATERSHEDS:
+
+USGS 11181008 CASTRO VALLEY C A HAYWARD CA
+Drainage area:	5.51 mi2
+Discharge:	0.93 cfs
+Stage:	1.06 ft
+Date:	2012-05-07 21:20:00
+Percentile:	68.08 %
+Class symbol:	 
+% normal (median):	140.91 %
+% normal (mean):	44.93 %
+
+
+USGS 11181040 SAN LORENZO C A SAN LORENZO CA
+Drainage area:	44.6 mi2
+Discharge:	10 cfs
+Stage:	3.46 ft
+Date:	2012-05-07 21:30:00
+Percentile:	60.00 %
+Class symbol:	 
+% normal (median):	144.93 %
+% normal (mean):	78.62 %
+
+San Leandro Creek below Lake Chabot is known to support a small steelhead run of unknown size. Although suitable spawning and rearing habitat for anadromous steelhead is present in the upper portions of the creek (i.e., “from approximately 0.5 mi downstream of Interstate 580 to Chabot Dam”), such conditions are not present within the project area below the San Leandro Creek bridge. Nevertheless, upstream migrating adults and downstream migrating smolts may move through the project area during the winter spawning season (December through April). A reconnaissance-level fish passage assessment conducted at the San Leandro Creek bridge in December 2008 concluded that the bridge support columns do not represent a substantial passage constraint for migrating salmonids (i.e., “Bridge without passage constraints” crossing type indicated; see Appendix D in the Natural Environment Study). At regular flows during the steelhead migratory season, it is expected that adults migrating upstream and juveniles migrating downstream (smolts) would be able to navigate around the existing columns.
+(from Caltrans report for I880 Lane Extension to Hegenberger....Discusses specific flood plains... San Leandro Creek...etc..Chapter #2)
+http://www.dot.ca.gov/dist4/documents/880_isea/approved_is_es_env.%20doc.pdf
+
+Re-Envisioning San Leandro Creek Report from the Department of Landscape  Architecture, University of California at Berkeley, 1994
+
+Can use Paraview and Earthvision with GIS; extensive work on Creek Area... USGS 3D Geologic Map of the Hayward Fault Zone, SF Bay Region...
+http://pubs.usgs.gov/sim/3045/
+ 
+Hydrogeology and Geochemistry of Aquifers Underlying the San Lorenzo and San Leandro Areas of the East Bay Plain, Alameda County, California. by USGS
+http://pubs.usgs.gov/wri/wrir024259/ca0443text.pdf
+ 
+Nonindigenous Aquatic Species in US Estuary: Case study of the Biological invasions of the SF Bay Delta...Good Stuff!.........Boy am I a NERD!!
+http://nas.er.usgs.gov/Publications/SFBay/sfinvade.html
+ 
+Caltrans report for I880 Lane Extension to Hegenberger....Discusses specific flood plains... San Leandro Creek...etc..Chapter #2
+http://www.dot.ca.gov/dist4/documents/880_isea/approved_is_es_env.%20doc.pdf
+ 
+All About Fish... report
+http://www.sfei.org/leidy_No530
+ 
+2010 flood report for community-Basic..gives idea on what they are focusing on..
+http://acfloodcontrol.org/files/pdfs/acfcd2010report.pdf
+ 
+Alameda County Flood Control and Water Conservation District Act 205
+http://acfloodcontrol.org/files/pdfs/act205.pdf
+ 
+Hydrogeology and Geochemistry of Aquifers Underlying the San Lorenzo and San Leandro Areas of the East Bay Plain, Alameda County, California. by USGS
+http://pubs.usgs.gov/wri/wrir024259/ca0443text.pdf
+ 
+Professor and Student from Cal State East Bay -project on San Leandro Creek- Microbial source Tracking
+http://water.epa.gov/type/oceb/beaches/upload/MolloyStephanie.pdf
+ 
+San Leandro Creek Hazardous Tree Management Project...by the Alameda County Flood Control District...
+http://www.acgov.org/pwa/documents/SanLeandro-Creek-Hazardous-Tree-Management-FactSheet.pdf
